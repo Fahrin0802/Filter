@@ -1,0 +1,20 @@
+#can{
+  border: 1px solid #c3c3c3;
+  width: 400px;
+  height: 200px;
+}
+#body{
+  margin: 30px;
+}
+
+#can2{
+  border: 1px solid #c3c3c3;
+  width: 400px;
+  height: 200px;
+}
+#body{
+  margin: 30px;
+}
+#wrapper{
+  display: flex;
+}
